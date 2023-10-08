@@ -13,7 +13,7 @@ Brazilian | 🕹️ Videogame Enthusiast | 🐍 Python Programmer
 
 🌟 Let's connect and collaborate on exciting Python projects! Feel free to reach out—I'm always up for a coding adventure.
 
-📫 You can reach me at [Instagram](https://www.instagram.com/amorozocaio/) or connect with me on [LinkedIn](www.linkedin.com/in/gaiocalvao) for more Pythonic discussions and updates.
+📫 You can reach me at [Instagram](https://www.instagram.com/amorozocaio/) or connect with me on [LinkedIn](https://www.linkedin.com/in/gaiocalvao/?locale=en_US) for more Pythonic discussions and updates.
 
 ⚡ Fun fact: The reason my GitHub user MatrixDwarf is mostly bc I'm a huge fan of 1999's Matrix and I'm 5'5.
 
