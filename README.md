@@ -1,20 +1,45 @@
-👋 Hi, I'm **Caio Galvão**! Welcome to my Profile! 
+# Olá, eu sou o Caio Galvão! 👋 
 
-Is that too hard to pronouce? I know lmao 
-You can simply call me Kyle.
+### 🚀 Desenvolvedor Back-end (Python & Java) | Analista de Dados
 
-Brazilian | 🕹️ Videogame Enthusiast | 🐍 Python Programmer
+Desenvolvedor de Sistemas em fase final de graduação em **Análise e Desenvolvimento de Sistemas (Estácio, CR 8,31)** e com mais de **360h+ de formação prática em Engenharia de Software e Back-end**. 
 
-📚 As a 28-year-old Python enthusiast, I'm on an exciting journey to master the world of data science, machine learning, artificial intelligence, and DevOps. Currently pursuing a graduation in Python Data Science and DevOps, I'm passionate about leveraging the power of Python to solve real-world problems and automate processes.
+Experiência em construção de APIs RESTful escaláveis, arquiteturas Cloud, integração de sistemas (CRM/ERP), conteinização com Docker/Kubernetes e desenvolvimento focado em **Segurança da Informação (Nota 10,0 acadêmica em Software Seguro)**.
 
-👨‍💻 I enjoy working on a wide range of Python projects, from data analysis and visualization to building machine learning models and deploying them in production. I'm always eager to learn and explore new technologies, and I believe in the endless possibilities that Python offers.
+---
 
-🎮 When I'm not coding, you can find me immersed in the world of video games, where I find inspiration and relaxation.
+### 🛠️ Tecnologias & Domínios Técnicos
 
-🌟 Let's connect and collaborate on exciting Python projects! Feel free to reach out—I'm always up for a coding adventure.
+* **Linguagens:** Python, Java, JavaScript (ES6+), PHP, SQL
+* **Back-end & Frameworks:** Django, Django REST Framework, Node.js, Spring / POO Java
+* **Banco de Dados & Cloud:** PostgreSQL, MySQL, NoSQL, AWS (S3), Docker, Kubernetes
+* **Engenharia & Dados:** APIs RESTful, Clean Code, Testes Automatizados (Cypress/PyTest), Pandas, NumPy, Big Data, Arquitetura Cloud/IoT
+* **Metodologias:** Git & GitHub, Métodos Ágeis (Scrum), Modelagem UML, Software Seguro
 
-📫 You can reach me at [Instagram](https://www.instagram.com/amorozocaio/) or connect with me on [LinkedIn](https://www.linkedin.com/in/gaiocalvao/?locale=en_US) for more Pythonic discussions and updates.
+---
 
-⚡ Fun fact: The reason my GitHub user MatrixDwarf is mostly bc I'm a huge fan of 1999's Matrix and I'm 5'5.
+### 📌 Projetos em Destaque
 
-> “Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” — Albert Einstein
+| Projeto | Descrição | Tech Stack |
+| :--- | :--- | :--- |
+| 🐍 **[CustomerRelationshipManagement]** | API RESTful com autenticação JWT, integração com AWS S3 e rotinas de segurança. | `Python` `Django REST` `Docker` `AWS S3` |
+| ☕ **[GF-bot]** | Aplicação desenvolvida com Padrões de Projeto (Design Patterns) e Orientação a Objetos e testes de ambiente. | `Playwright` `POO` `Design Patterns` `MySQL` `Tkinter` `IA`|
+| 📊 **[notebooklabs]** | Análise exploratória e pipeline de tratamento de dados operacionais e métricas. | `Python` `Pandas` `NumPy` `Big Data` |
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MatrixDwarf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatrixDwarf&layout=compact&theme=tokyonight&hide=html,css" />
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+* **LinkedIn:** [linkedin.com/in/gaiocalvao](https://linkedin.com/in/gaiocalvao)
+* **Vitrine Dev (Alura):** [alura.com.br/vitrinedev/gaiodev](https://cursos.alura.com.br/vitrinedev/gaiodev)
+* **E-mail:** caio.amorozo@hotmail.com
+* **Localização:** Goiânia - GO, Brasil
